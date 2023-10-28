@@ -1,1 +1,1 @@
-# javascript-learning
+# full-stack
